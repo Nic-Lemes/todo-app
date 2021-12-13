@@ -4,13 +4,12 @@
 
 ## Table of contents
 
-## - :eyes: [Overview](#overview)
+## :eyes: [Overview](#overview)
   - :dart: [The challenge](#the-challenge)
   - :camera_flash: [Screenshot](#screenshot)
   - :link: [Links](#links)
-- :desktop_computer: [My process](#my-process)
   - :hammer_and_wrench: [Built with](#built-with)
-- :raising_hand_man: [Author](#author)
+  - :raising_hand_man: [Author](#author)
 
 
 ### The challenge :dart:
@@ -36,8 +35,6 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process :desktop_computer:
 
 ### Built with :raising_hand_man:
 
