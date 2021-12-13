@@ -4,18 +4,16 @@
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+## - :eyes: [Overview](#overview)
+  - :dart: [The challenge](#the-challenge)
+  - :camera_flash: [Screenshot](#screenshot)
+  - :link: [Links](#links)
+- :desktop_computer: [My process](#my-process)
+  - :hammer_and_wrench: [Built with](#built-with)
+- :raising_hand_man: [Author](#author)
 
 
-## Overview
-
-### The challenge
+### The challenge :dart:
 
 Users should be able to:
 
@@ -29,19 +27,19 @@ Users should be able to:
 - Toggle light and dark mode
 - **Bonus**: Drag and drop to reorder items on the list
 
-### Screenshot
+### Screenshot :camera_flash:
 
 ![](./screenshot.jpg)
 
 
-### Links
+### Links :link:
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-## My process
+## My process :desktop_computer:
 
-### Built with
+### Built with :raising_hand_man:
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -50,7 +48,7 @@ Users should be able to:
 - Mobile-first workflow
 
 
-## Author
+## Author :raising_hand_man:
 
 - Github - [Nícolas Lemes](https://github.com/Nic-Lemes)
 
